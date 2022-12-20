@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=chanjin1998&fontSize=60&&fontColor=auto&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 ### Hi there 👋
+<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<br>
 <h2 align="center"><b> 🛠 Stacks 🛠 </b></h2>
 <h4 align="center">Stacks that I've used at least once <h4>
 <p align="center">
@@ -17,6 +21,12 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white"/> <p/>
 <br />
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<br>
+
 <a href="#">
 <img src = https://github-readme-stats.vercel.app/api?username=chanjin1998&show_icons=true&theme=radical height = "180px" width = "50%"> &nbsp
 </a>
@@ -24,7 +34,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanjin1998&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
 </a>
 <br />
+<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<br>
 <h2 align="center"><b> ☎ Contact ☎ </b></h2>
 <p align="center">
   <a href="mailto:jcjin1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
@@ -32,7 +46,11 @@
   <a href="https://chanjin98.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
   </p>
 <br/>
+<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<br>
 <h3 align="center"><b> Solved.ac Tier </b></h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcjin1)](https://solved.ac/jcjin1/)
@@ -40,3 +58,16 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanjin1998&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/chanjin1998?style=social">
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<br>  
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/clm-bonny/count.svg" />  
+</p>
