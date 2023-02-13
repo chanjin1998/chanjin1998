@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=chanjin1998&fontSize=60&&fontColor=auto&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-### 👋
+# 👋
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
