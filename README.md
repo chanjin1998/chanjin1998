@@ -38,7 +38,7 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanjin1998y&show_icons=true&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="chanjin1998" />
 <br>
 <h2 align="center"><b> ☎ Contact ☎ </b></h2>
 <p align="center">
