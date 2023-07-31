@@ -39,9 +39,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<p align="center">
- 
-[![chanjin1998's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chanjin1998&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  </p>
+<p align="center">  </p>
 
 <br>
 <h2 align="center"><b> ☎ Contact ☎ </b></h2>
