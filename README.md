@@ -49,6 +49,7 @@
 <h3>
   <b> Solved.ac Tier </b>
 </h3>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcjin1)](https://solved.ac/jcjin1/)
 
 <p>
