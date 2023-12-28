@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=chanjin1998&fontSize=60&&fontColor=auto&animation=fadeIn&fontAlignY=50&descAlignY=50&descAlign=62)
 
 <h3>Hi there😛</h3>
+<p>항상 발전하는 사람이 되고 싶은 정찬진입니다.<br></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <br>
@@ -44,24 +45,25 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
 
 <h3>
   <b> Solved.ac Tier </b>
 </h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcjin1)](https://solved.ac/jcjin1/)
-
+<a href="https://solved.ac/jcjin1/" target="_blank">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcjin1" alt="Solved.ac Profile">
+</a>
+<br>
 <p>
+  <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanjin1998&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
   </a>
   <img src="https://img.shields.io/github/followers/chanjin1998?style=social">
 </p>
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<br>  
 <div>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
