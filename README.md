@@ -53,12 +53,13 @@
 <h3 align="center">
   <b> Solved.ac Tier </b>
 </h3>
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcjin1)](https://solved.ac/jcjin1/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcjin1)](https://solved.ac/jcjin1/)
+  
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanjin1998&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/chanjin1998?style=social">
+</p>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
