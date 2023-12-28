@@ -29,7 +29,7 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img src = https://github-readme-stats.vercel.app/api?username=chanjin1998&show_icons=true&theme=radical height = "180px" width = "50%"> &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api?username=chanjin1998&show_icons=true&theme=radical" height = "180px" width = "50%">
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanjin1998&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
@@ -46,7 +46,7 @@
 <p align="center">
   <a href="mailto:jcjin1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/o6.2g.g8/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp;&nbsp;
-  <a href="https://chanjin98.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  <a href="https://chanjin98.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 <br/>
 <br>
