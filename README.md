@@ -7,7 +7,7 @@
 <br>
 <h2><b> 🛠 Stacks 🛠 </b></h2>
 <h4>Stacks that I've used at least once <h4>
-<br />
+<br/>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -43,9 +43,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3>
+<h2>
   <b> 🧑🏻‍💻 Solved.ac Tier 🧑🏻‍💻 </b>
-</h3>
+</h2>
 
 <a href="https://solved.ac/jcjin1/" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcjin1" alt="Solved.ac Profile">
@@ -59,7 +59,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
-  <h3><b> 📍 Profile Visitor Count 📍 </b></h3>
+  <h2><b> 📍 Profile Visitor Count 📍 </b></h2>
 </div>
     
 <!-- retro visitor counter -->  
