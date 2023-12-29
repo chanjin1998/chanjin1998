@@ -44,7 +44,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3>
-  <b> Solved.ac Tier </b>
+  <b> 🧑🏻‍💻 Solved.ac Tier 🧑🏻‍💻 </b>
 </h3>
 
 <a href="https://solved.ac/jcjin1/" target="_blank">
@@ -59,7 +59,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b> 📍 Profile Visitor Count 📍 </b></h3>
 </div>
     
 <!-- retro visitor counter -->  
