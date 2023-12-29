@@ -22,10 +22,8 @@
 
 <br>
 <a href="#">
-  <img src = "https://github-readme-stats.vercel.app/api?username=chanjin1998&show_icons=true&theme=radical" height = "180px" width = "40%">
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanjin1998&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "50%">
+  <img src = "https://github-readme-stats.vercel.app/api?username=chanjin1998&show_icons=true&theme=radical" height = "180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanjin1998&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
 </a>
 <br/>
 
@@ -49,7 +47,9 @@
 
 <a href="https://solved.ac/jcjin1/" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcjin1" alt="Solved.ac Profile">
+  <img src="http://mazandi.herokuapp.com/api?handle=jcjin1&theme=warm" alt="mazandi profile">
 </a>
+
 <p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanjin1998&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
   </a>
