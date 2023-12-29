@@ -1,26 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=chanjin1998&fontSize=60&&fontColor=auto&animation=fadeIn&fontAlignY=50&descAlignY=50&descAlign=62)
 
 <h3>Hi there😛</h3>
-<p>항상 발전하는 사람이 되고 싶은 정찬진입니다.<br></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<p>항상 발전하는 사람이 되고 싶은 정찬진입니다.</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 <h2><b> 🛠 Stacks 🛠 </b></h2>
 <h4>Stacks that I've used at least once <h4>
+<br />
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<br />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-green?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=flat-square&logo=Kotlin&logoColor=white"/>
-<br />
 <img src="https://img.shields.io/badge/AndroidStudio-5C3EE8?style=flat&logo=AndroidStudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white"/> <p/>
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white"/> 
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 <a href="#">
@@ -31,7 +29,7 @@
 </a>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2><b> ☎ Contact ☎ </b></h2>
 <p>
@@ -43,7 +41,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3>
   <b> Solved.ac Tier </b>
@@ -52,16 +50,13 @@
 <a href="https://solved.ac/jcjin1/" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcjin1" alt="Solved.ac Profile">
 </a>
-<br>
 <p>
-  <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanjin1998&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
   </a>
   <img src="https://img.shields.io/github/followers/chanjin1998?style=social">
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
   <h3><b>📍 Profile Visitor Count</b></h3>
