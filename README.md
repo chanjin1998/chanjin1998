@@ -64,5 +64,5 @@
     
 <!-- retro visitor counter -->  
 <p>   
-  <img src="https://profile-counter.glitch.me/clm-bonny/count.svg" />  
+  <img src="https://profile-counter.glitch.me/chanjin1998/count.svg" />  
 </p>
