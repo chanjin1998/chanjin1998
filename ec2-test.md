@@ -34,6 +34,12 @@ if __name__ == "__main__":
     print(f"Elapsed Time: {elapsed_time} seconds")
 
 ```
+# 테스트 코드 설명
+<p>
+  t 시리즈에서 t2, t3, t4g의 차이를 명확하게 보여주는 코드는 일반적으로 성능 테스트를 통해 비교되는데 CPU 성능 테스트를 수행하는 Python 코드를 통해 차이를 확인할 수 있습니다.
+이 코드는 CPU 바운드 작업을 수행하고 걸리는 시간을 측정하는 테스트입니다.
+</p>
+
 
 # 테스트 결과
 <ul>
@@ -45,4 +51,12 @@ if __name__ == "__main__":
   <span>평균 시간 : 0.2초</span>
   <li>t4g.nano</li><img width="363" alt="t4g nano" src="https://github.com/chanjin1998/chanjin1998/assets/70675133/3d87de21-120c-4608-bb5f-d14d414e7335">
   <span>평균 시간 : 0.15초</span>
+</ul>
+
+# 결과 분석
+숫자가 높은 순서대로 성능이 좋을 것으로 예상
+<ul>
+  <li>프로세서 아키텍처</li>
+  <li>비용 및 성능 최적화</li>
+  <li>인스턴스 유형에 따른 최적화</li>
 </ul>
