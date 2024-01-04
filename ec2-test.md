@@ -43,20 +43,21 @@ if __name__ == "__main__":
 
 # 테스트 결과
 <ul>
-  <li>t2.nano</li><img width="360" alt="t2 nano" src="https://github.com/chanjin1998/chanjin1998/assets/70675133/f01f115b-b631-404c-ab82-bea496829929">
-  <span>평균 시간 : 0.11초</span>
-  <li>t3.nano</li><img width="366" alt="t3 nano" src="https://github.com/chanjin1998/chanjin1998/assets/70675133/c008dc1d-944c-4274-bc62-8fe6ac96974f">
-  <span>평균 시간 : 0.22초</span>
-  <li>t3a.nano</li><img width="377" alt="t3a nano" src="https://github.com/chanjin1998/chanjin1998/assets/70675133/6869c4e3-bee4-4144-9f5c-a2856a4d4cdf">
-  <span>평균 시간 : 0.2초</span>
-  <li>t4g.nano</li><img width="363" alt="t4g nano" src="https://github.com/chanjin1998/chanjin1998/assets/70675133/3d87de21-120c-4608-bb5f-d14d414e7335">
-  <span>평균 시간 : 0.15초</span>
+  <li><h3>t2.nano</h3></li><img width="360" alt="t2 nano" src="https://github.com/chanjin1998/chanjin1998/assets/70675133/f01f115b-b631-404c-ab82-bea496829929">
+  <h3>평균 시간 : 0.11초</h3>
+  <li><h3>t3.nano</h3></li><img width="366" alt="t3 nano" src="https://github.com/chanjin1998/chanjin1998/assets/70675133/c008dc1d-944c-4274-bc62-8fe6ac96974f">
+  <h3>평균 시간 : 0.22초</h3>
+  <li><h3>t3a.nano</h3></li><img width="377" alt="t3a nano" src="https://github.com/chanjin1998/chanjin1998/assets/70675133/6869c4e3-bee4-4144-9f5c-a2856a4d4cdf">
+  <h3>평균 시간 : 0.2초</h3>
+  <li><h3>t4g.nano</h3></li><img width="363" alt="t4g nano" src="https://github.com/chanjin1998/chanjin1998/assets/70675133/3d87de21-120c-4608-bb5f-d14d414e7335">
+  <h3>평균 시간 : 0.15초</h3>
 </ul>
 
 # 결과 분석
-숫자가 높은 순서대로 성능이 좋을 것으로 예상
-<ul>
-  <li>프로세서 아키텍처</li>
-  <li>비용 및 성능 최적화</li>
-  <li>인스턴스 유형에 따른 최적화</li>
-</ul>
+**초기 예상 : 숫자가 높은 순서대로 성능이 좋을 것으로 예측**
+
++ t2.nano는 가장 빠른 처리 시간을 기록하여, 작고 비용 효율적인 작업에 적합(Linux 기준 시간당 0.0072 USD)
++ t3.nano와 t3a.nano는 중간 범위의 성능을 제공하며, 일반적인 용도에 적합(Linux 기준 시간당 0.0065 USD, Linux 기준 시간당 0.0059 USD)
++ t4g.nano는 ARM 기반의 최신 프로세서를 사용하여 좋은 성능을 제공하는 것으로 확인(Linux 기준 시간당 0.0052 USD)
++ t4g.nano는 비용 대비 효율적인 선택으로 나타남
+
