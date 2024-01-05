@@ -42,8 +42,8 @@ if __name__ == "__main__":
 
 # 초기 예상
 <p>
-Vcpu 스펙과 갯수에 따라서 처리 시간이 차이날 것이라 예측
-t2.nano > t3.nano > t3a.nano > t4g.nano
+Vcpu 스펙과 갯수에 따라서 처리 시간이 차이날 것이라 예측<br>
+**t2.nano > t3.nano > t3a.nano > t4g.nano**
 </p>
 
 # 테스트 결과
